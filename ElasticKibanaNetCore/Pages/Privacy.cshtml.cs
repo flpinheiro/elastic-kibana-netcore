@@ -19,6 +19,7 @@ namespace ElasticKibanaNetCore.Pages
 
         public void OnGet()
         {
+            _logger.Log(LogLevel.Information, "Funcionando normalmente aqui.");
         }
     }
 }
