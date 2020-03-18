@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticKibanaNetCore", "ElasticKibanaNetCore\ElasticKibanaNetCore.csproj", "{C5A9A1DC-0166-487F-AB9E-5F46E4BB3035}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElasticKibanaNetCore", "ElasticKibanaNetCore\ElasticKibanaNetCore.csproj", "{C5A9A1DC-0166-487F-AB9E-5F46E4BB3035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticKibanaNetCore2", "ElasticKibanaNetCore2\ElasticKibanaNetCore2.csproj", "{28A63659-ACA2-4FB5-82E8-F0630B563F68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C5A9A1DC-0166-487F-AB9E-5F46E4BB3035}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5A9A1DC-0166-487F-AB9E-5F46E4BB3035}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5A9A1DC-0166-487F-AB9E-5F46E4BB3035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A63659-ACA2-4FB5-82E8-F0630B563F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A63659-ACA2-4FB5-82E8-F0630B563F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A63659-ACA2-4FB5-82E8-F0630B563F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A63659-ACA2-4FB5-82E8-F0630B563F68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
