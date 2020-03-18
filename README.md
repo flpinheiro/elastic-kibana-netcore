@@ -32,10 +32,11 @@ ou via CLI
 
 Adicione o seguinte conjunto de linhas no arquivo appsetings.json
 
-  "ElasticConfiguration": {
-    "Uri": "http://localhost:5000/"
-  }
-  
+          "ElasticConfiguration": {
+            "Uri": "http://localhost:5000/"
+          }
+Aqui a porta 5000 é a porta padrão do logstash. 
+
 Na Classe Startup.cs adicione os seguintes trechos de código.
 
 Nos imposts
